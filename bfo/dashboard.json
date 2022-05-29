@@ -1,5 +1,5 @@
 {
-  "isError": TRUE,
+  "isError": true,
   "schemaVersion": 1,
   "label": "hello",
   "message": "2 ERROR, 2 WARN",
